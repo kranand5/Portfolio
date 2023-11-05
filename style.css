@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner&display=swap');
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -19,6 +20,7 @@ nav a {
     padding: 0 10px;
     text-decoration: none;
     color: #ffffff;
+    font-family:Edu TAS Beginner ;
 }
 
 nav a:hover {
@@ -45,4 +47,10 @@ d {
 }
 .link{
     padding: 2px;
+}
+h1,h2{
+    font-family:Agbalumo ;
+}
+p {
+    font-family:Edu TAS Beginner ;
 }
